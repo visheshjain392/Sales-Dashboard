@@ -91,10 +91,7 @@ Open the .pbix file in Power BI Desktop
 
 Import the provided sales_data.csv file
 
-Apply Power Query transformations (if not already included)
-
 Explore the dashboard using filters and slicers
 
 ## 📸 Dashboard Preview
-![Sales Dashboard Screenshot](dashboard.png)
-
+![Sales Dashboard Screenshot]([dashboard.png](https://github.com/visheshjain392/Sales-Dashboard/blob/main/Sales%20Dashboard%20Screenshot.png))
