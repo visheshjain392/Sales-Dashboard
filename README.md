@@ -94,4 +94,4 @@ Import the provided sales_data.csv file
 Explore the dashboard using filters and slicers
 
 ## 📸 Dashboard Preview
-![Sales Dashboard Screenshot]([dashboard.png](https://github.com/visheshjain392/Sales-Dashboard/blob/main/Sales%20Dashboard%20Screenshot.png))
+![Sales Dashboard Screenshot](https://github.com/visheshjain392/Sales-Dashboard/blob/main/Sales%20Dashboard%20Screenshot.png)
